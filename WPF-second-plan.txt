@@ -9,3 +9,4 @@ SECOND PLAN
  + Install software design
 - Belajar Data Analis
 - Belajar Pyton
+- Belajar Vue
