@@ -2,7 +2,11 @@ SECOND PLAN
 - Belajar sambil ngonten
  + Bikin channel yt baru
  + Wajib upload video setiap hari
+  ^ Bikin akun tiktok
 - Sekolah lagi 
 - Jadi konten kreator
 - Fokus UI/UX
+ + Install software design
 - Belajar Data Analis
+- Belajar Pyton
+- Belajar Vue
