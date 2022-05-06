@@ -8,4 +8,10 @@ SECOND PLAN
 - Jadi konten kreator
 - Fokus UI/UX
   ^ Laravel
+- Sekolah lagi 
+- Jadi konten kreator
+- Fokus UI/UX
+ + Install software design
 - Belajar Data Analis
+- Belajar Pyton
+- Belajar Vue
