@@ -2,7 +2,10 @@ SECOND PLAN
 - Belajar sambil ngonten
  + Bikin channel yt baru
  + Wajib upload video setiap hari
+   ^ Angular
+   ^ React
 - Sekolah lagi 
 - Jadi konten kreator
 - Fokus UI/UX
+  ^ Laravel
 - Belajar Data Analis
