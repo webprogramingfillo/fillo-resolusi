@@ -2,7 +2,12 @@ SECOND PLAN
 - Belajar sambil ngonten
  + Bikin channel yt baru
  + Wajib upload video setiap hari
-  ^ Bikin akun tiktok
+   ^ Angular
+   ^ React
+- Sekolah lagi 
+- Jadi konten kreator
+- Fokus UI/UX
+  ^ Laravel
 - Sekolah lagi 
 - Jadi konten kreator
 - Fokus UI/UX
